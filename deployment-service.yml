@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: raghuraina/karnataka:v1
+        image: raghuraina/karnataka:v2
         ports:
         - containerPort: 3000   # Use port 3000
 
